@@ -1,0 +1,24 @@
+
+ _________________               _________________
+ ~-.              \  |\___/|  /              .-~
+     ~-.           \ / o o \ /           .-~
+        >           \\  W  //           <
+       /             /~---~\             \
+      /_            |       |            _\
+         ~-.        |       |        .-~
+            ;        \     /        i
+           /___      /\   /\      ___\
+                ~-. /  \_/  \ .-~
+                   V         V
+                               Configuration Program
+                                for MarvelIRCd1.0
+                                    
+This program will help you to compile your IRC server, and ask you
+questions regarding the compile-time settings of it during the process. 
+regarding the setup of it, during the process.
+
+If you have problems regarding the setup & compile, read Unreal.nfo to get
+more information on where to get help. Please, before running this setup,
+read the documentation in the "doc" folder. Docs are also avail online @
+http://www.marvelircd.xyz
+
